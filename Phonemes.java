@@ -1,8 +1,4 @@
-/* 
- * Student number : 2422647
- * CSCU9T4
- * version: March2017
- */
+
 public class Phonemes {
 
 	private double start = 0;
