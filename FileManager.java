@@ -1,8 +1,4 @@
-/* 
- * Student number : 2422647
- * CSCU9T4
- * version: March2017
- */
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
